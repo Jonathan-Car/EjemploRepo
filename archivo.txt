@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 creando archivo en master
+=======
+otras pruebas
+>>>>>>> pruebas2
