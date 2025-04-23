@@ -1,2 +1,4 @@
 primera linea de actividad3_2.txt
 segunda linea de actividad3_2.txt
+nueva linea en la actividad3_2 
+nueva linea en la actividad3_2 -2 
